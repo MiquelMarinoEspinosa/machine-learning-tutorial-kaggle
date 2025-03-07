@@ -1,7 +1,8 @@
 services:
   jupyter:
-    build:
-      context: .
+    image: miquelmarinoespinosa/jupyter-python-machine-learning
+    #build:
+    #  context: .
     ports:
       - 8889:8888
     volumes:
