@@ -10,7 +10,7 @@ Access to the jupyter via http://localhost:8889/lab?token=my-token
 
 Related [jupyter docker hub image](https://hub.docker.com/repository/docker/miquelmarinoespinosa/jupyter-python-machine-learning/general)
 
-Add datasets at the `input` folder to be able to execute the notebook according to the define path at the different notebook. The datasets can be found at [kaggle datasets](https://www.kaggle.com/datasets)
+Add datasets at the `input` folder to be able to execute the notebook according to the define path at the different notebook. The datasets can be found at [kaggle datasets](https://www.kaggle.com/datasets). Look for them using their names at the search box
 
 Example of path definition
 
